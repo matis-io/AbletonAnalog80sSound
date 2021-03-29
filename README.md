@@ -1,5 +1,5 @@
 # AbletonAnalog80sSound
-Presets for Ableton Live's Analog synthesiser of 80s hits
+Ableton Live's Analog synthesiser Presets of Synthpop hits
 
 
 Recreated sounds from songs:
